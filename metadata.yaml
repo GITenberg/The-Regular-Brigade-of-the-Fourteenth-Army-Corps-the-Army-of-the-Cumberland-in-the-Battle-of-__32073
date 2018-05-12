@@ -1,0 +1,32 @@
+_repo: The-Regular-Brigade-of-the-Fourteenth-Army-Corps-the-Army-of-the-Cumberland-in-the-Battle-of-__32073
+_version: 0.1.0
+alternative_title: The Regular Brigade of the 14th Army Corps, the Army of the Cumberland,
+  in the Battle of Stone River, or Murfreesboro', Tennessee
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Phisterer, Frederick
+    birthdate: 1836
+    deathdate: 1909
+    gutenberg_agent_id: '35653'
+    url: http://www.gutenberg.org/2009/agents/35653
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32073'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States. Army. Corps, 14th'
+- !lcc 'E456'
+- !lcsh 'Stones River, Battle of, Murfreesboro, Tenn., 1862-1863'
+title: The Regular Brigade of the Fourteenth Army Corps, the Army of the Cumberland,
+  in the Battle of Stone River, or Murfreesboro', Tennessee
+url: http://www.gutenberg.org/ebooks/32073
